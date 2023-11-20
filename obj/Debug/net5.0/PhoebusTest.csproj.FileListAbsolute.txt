@@ -1,0 +1,16 @@
+E:\source\repos\PhoebusTest\obj\Debug\net5.0\PhoebusTest.csproj.AssemblyReference.cache
+E:\source\repos\PhoebusTest\obj\Debug\net5.0\PhoebusTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\repos\PhoebusTest\obj\Debug\net5.0\PhoebusTest.AssemblyInfoInputs.cache
+E:\source\repos\PhoebusTest\obj\Debug\net5.0\PhoebusTest.AssemblyInfo.cs
+E:\source\repos\PhoebusTest\obj\Debug\net5.0\PhoebusTest.csproj.CoreCompileInputs.cache
+E:\source\repos\PhoebusTest\bin\Debug\net5.0\PhoebusTest.exe
+E:\source\repos\PhoebusTest\bin\Debug\net5.0\PhoebusTest.deps.json
+E:\source\repos\PhoebusTest\bin\Debug\net5.0\PhoebusTest.runtimeconfig.json
+E:\source\repos\PhoebusTest\bin\Debug\net5.0\PhoebusTest.runtimeconfig.dev.json
+E:\source\repos\PhoebusTest\bin\Debug\net5.0\PhoebusTest.dll
+E:\source\repos\PhoebusTest\bin\Debug\net5.0\PhoebusTest.pdb
+E:\source\repos\PhoebusTest\obj\Debug\net5.0\PhoebusTest.dll
+E:\source\repos\PhoebusTest\obj\Debug\net5.0\refint\PhoebusTest.dll
+E:\source\repos\PhoebusTest\obj\Debug\net5.0\PhoebusTest.pdb
+E:\source\repos\PhoebusTest\obj\Debug\net5.0\PhoebusTest.genruntimeconfig.cache
+E:\source\repos\PhoebusTest\obj\Debug\net5.0\ref\PhoebusTest.dll
